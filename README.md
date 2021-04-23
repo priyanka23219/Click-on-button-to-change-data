@@ -1,4 +1,10 @@
 # BtnClick
+Before Click on Button 
+![Before Click on Button](https://user-images.githubusercontent.com/75573132/115828496-65004e80-a42b-11eb-9f92-0195e608e891.png)
+
+After Click on Button
+![after click on button](https://user-images.githubusercontent.com/75573132/115828670-a690f980-a42b-11eb-9464-5d185e4728bc.png)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
 
